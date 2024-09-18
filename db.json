@@ -19,12 +19,12 @@
          "Minnesota Vikings": "0.2",
          "Jacksonville Jaguars": "-0.3",
          "Seattle Seahawks": "-0.4",
+         "Green Bay Packers": "-0.5",
          "Cleveland Browns": "-0.8",
          "Los Angeles Rams": "-1.1",
          "Chicago Bears": "-1.4",
          "Pittsburgh Steelers": "-1.4",
          "Indianapolis Colts": "-1.5",
-         "Green Bay Packers": "-1.8",
          "Washington Commanders": "-2.9",
          "Tennessee Titans": "-3.1",
          "Las Vegas Raiders": "-3.2",
@@ -36,6 +36,6 @@
       }
    ],
    "update": {
-      "last update": "September 17, 2024"
+      "last update": "September 18, 2024"
    }
 }
