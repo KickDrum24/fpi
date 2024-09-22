@@ -12,12 +12,12 @@
          "Baltimore Ravens": "2.7",
          "Arizona Cardinals": "1.9",
          "Cincinnati Bengals": "1.1",
+         "Los Angeles Chargers": "0.8",
          "Tampa Bay Buccaneers": "0.5",
          "Atlanta Falcons": "0.5",
          "Dallas Cowboys": "0.4",
          "Minnesota Vikings": "0.1",
          "Jacksonville Jaguars": "-0.3",
-         "Los Angeles Chargers": "-0.4",
          "Seattle Seahawks": "-0.5",
          "Cleveland Browns": "-0.7",
          "Los Angeles Rams": "-1.1",
@@ -36,6 +36,6 @@
       }
    ],
    "update": {
-      "last update": "September 21, 2024"
+      "last update": "September 22, 2024"
    }
 }
