@@ -15,7 +15,7 @@
          "Houston Texans": "1.2",
          "Washington Commanders": "0.9",
          "Dallas Cowboys": "0.6",
-         "Pittsburgh Steelers": "0.4",
+         "Pittsburgh Steelers": "0.1",
          "Tampa Bay Buccaneers": "0.1",
          "Atlanta Falcons": "-0.1",
          "Seattle Seahawks": "-0.1",
@@ -32,7 +32,7 @@
          "New York Giants": "-4.6",
          "Carolina Panthers": "-5.0",
          "New England Patriots": "-5.9",
-         "Miami Dolphins": "-8.9"
+         "Miami Dolphins": "-8.5"
       }
    ],
    "update": {
