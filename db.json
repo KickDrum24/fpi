@@ -9,6 +9,7 @@
          "San Francisco 49ers": "3.8",
          "Green Bay Packers": "2.4",
          "Washington Commanders": "2.2",
+         "Indianapolis Colts": "2.0",
          "Pittsburgh Steelers": "1.8",
          "Minnesota Vikings": "1.8",
          "Tampa Bay Buccaneers": "1.8",
@@ -24,7 +25,6 @@
          "New Orleans Saints": "-0.7",
          "Dallas Cowboys": "-1.0",
          "Seattle Seahawks": "-1.4",
-         "Indianapolis Colts": "-1.5",
          "Miami Dolphins": "-1.8",
          "Jacksonville Jaguars": "-1.9",
          "Denver Broncos": "-2.5",
@@ -36,6 +36,6 @@
       }
    ],
    "update": {
-      "last update": "October 28, 2024"
+      "last update": "October 29, 2024"
    }
 }
