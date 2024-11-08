@@ -1,41 +1,41 @@
 {
    "teams": [
       {
-         "Detroit Lions": "7.8",
+         "Detroit Lions": "7.7",
          "Baltimore Ravens": "7.2",
-         "Kansas City Chiefs": "6.0",
          "Buffalo Bills": "6.0",
+         "Kansas City Chiefs": "5.9",
          "Green Bay Packers": "4.3",
          "San Francisco 49ers": "3.9",
          "Philadelphia Eagles": "3.7",
-         "Minnesota Vikings": "2.5",
-         "Washington Commanders": "2.3",
-         "Pittsburgh Steelers": "1.8",
-         "Tampa Bay Buccaneers": "1.7",
+         "Washington Commanders": "2.4",
+         "Minnesota Vikings": "2.2",
+         "Tampa Bay Buccaneers": "2.0",
+         "Pittsburgh Steelers": "1.9",
          "Houston Texans": "1.2",
          "New York Jets": "1.1",
          "Atlanta Falcons": "0.7",
-         "Cincinnati Bengals": "0.4",
-         "Los Angeles Chargers": "0.2",
-         "Arizona Cardinals": "0.1",
-         "Los Angeles Rams": "-0.0",
-         "Chicago Bears": "-0.1",
+         "Cincinnati Bengals": "0.3",
+         "Los Angeles Chargers": "0.3",
+         "Arizona Cardinals": "0.2",
+         "Chicago Bears": "0.0",
+         "Los Angeles Rams": "0.0",
          "Cleveland Browns": "-0.3",
-         "Indianapolis Colts": "-1.0",
+         "Indianapolis Colts": "-0.9",
          "Miami Dolphins": "-1.0",
-         "Dallas Cowboys": "-1.0",
          "New Orleans Saints": "-1.1",
-         "Seattle Seahawks": "-1.6",
+         "Seattle Seahawks": "-1.5",
          "Jacksonville Jaguars": "-2.0",
-         "Denver Broncos": "-3.4",
+         "Denver Broncos": "-3.5",
          "New York Giants": "-4.3",
          "Las Vegas Raiders": "-4.9",
+         "Dallas Cowboys": "-5.1",
          "Tennessee Titans": "-5.2",
-         "Carolina Panthers": "-7.8",
-         "New England Patriots": "-8.1"
+         "New England Patriots": "-7.8",
+         "Carolina Panthers": "-11.6"
       }
    ],
    "update": {
-      "last update": "November 3, 2024"
+      "last update": "November 6, 2024"
    }
 }
