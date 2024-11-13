@@ -28,14 +28,14 @@
          "Denver Broncos": "-2.8",
          "New York Giants": "-4.6",
          "Las Vegas Raiders": "-4.8",
-         "Jacksonville Jaguars": "-5.1",
          "Tennessee Titans": "-5.2",
          "New England Patriots": "-6.5",
          "Carolina Panthers": "-7.4",
-         "Dallas Cowboys": "-8.0"
+         "Dallas Cowboys": "-8.0",
+         "Jacksonville Jaguars": "-8.1"
       }
    ],
    "update": {
-      "last update": "November 12, 2024"
+      "last update": "November 13, 2024"
    }
 }
