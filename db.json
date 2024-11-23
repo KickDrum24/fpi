@@ -7,7 +7,6 @@
          "Kansas City Chiefs": "5.1",
          "Green Bay Packers": "5.0",
          "Philadelphia Eagles": "4.5",
-         "San Francisco 49ers": "4.0",
          "Minnesota Vikings": "2.8",
          "Houston Texans": "1.9",
          "Pittsburgh Steelers": "1.7",
@@ -25,6 +24,7 @@
          "Seattle Seahawks": "-1.2",
          "Chicago Bears": "-1.4",
          "Denver Broncos": "-1.4",
+         "San Francisco 49ers": "-1.9",
          "Indianapolis Colts": "-2.1",
          "Las Vegas Raiders": "-4.9",
          "Tennessee Titans": "-5.5",
@@ -36,6 +36,6 @@
       }
    ],
    "update": {
-      "last update": "November 22, 2024"
+      "last update": "November 23, 2024"
    }
 }
