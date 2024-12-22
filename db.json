@@ -1,10 +1,41 @@
 {
    "teams": [
       {
-         "": ""
+         "Detroit Lions": "8.4",
+         "Buffalo Bills": "7.3",
+         "Baltimore Ravens": "7.0",
+         "Green Bay Packers": "6.7",
+         "Philadelphia Eagles": "5.0",
+         "Kansas City Chiefs": "4.1",
+         "Minnesota Vikings": "3.5",
+         "Tampa Bay Buccaneers": "2.7",
+         "San Francisco 49ers": "2.7",
+         "Houston Texans": "1.1",
+         "Pittsburgh Steelers": "0.9",
+         "Washington Commanders": "0.9",
+         "Los Angeles Rams": "0.9",
+         "Arizona Cardinals": "0.6",
+         "Miami Dolphins": "0.3",
+         "Los Angeles Chargers": "0.2",
+         "Cincinnati Bengals": "0.0",
+         "New York Jets": "-0.4",
+         "Seattle Seahawks": "-0.9",
+         "Denver Broncos": "-1.1",
+         "Chicago Bears": "-1.8",
+         "Tennessee Titans": "-2.2",
+         "Indianapolis Colts": "-3.0",
+         "Las Vegas Raiders": "-4.1",
+         "Atlanta Falcons": "-4.4",
+         "New England Patriots": "-5.4",
+         "Dallas Cowboys": "-6.0",
+         "Cleveland Browns": "-6.2",
+         "Jacksonville Jaguars": "-6.2",
+         "New Orleans Saints": "-6.8",
+         "New York Giants": "-8.8",
+         "Carolina Panthers": "-10.1"
       }
    ],
    "update": {
-      "last update": ""
+      "last update": "December 22, 2024"
    }
 }
