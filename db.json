@@ -5,17 +5,17 @@
          "Los Angeles Rams": "6.2",
          "Green Bay Packers": "5.2",
          "Detroit Lions": "4.5",
-         "Indianapolis Colts": "4.3",
+         "Indianapolis Colts": "4.4",
          "Seattle Seahawks": "4.0",
-         "Buffalo Bills": "4.0",
+         "Buffalo Bills": "3.9",
          "San Francisco 49ers": "3.7",
          "Philadelphia Eagles": "3.6",
          "Baltimore Ravens": "3.1",
          "Houston Texans": "3.0",
          "Denver Broncos": "2.6",
-         "Dallas Cowboys": "1.2",
+         "Dallas Cowboys": "1.1",
          "New England Patriots": "1.0",
-         "Jacksonville Jaguars": "0.7",
+         "Jacksonville Jaguars": "0.6",
          "Cincinnati Bengals": "0.6",
          "Tampa Bay Buccaneers": "-0.1",
          "Chicago Bears": "-0.7",
@@ -24,8 +24,8 @@
          "Los Angeles Chargers": "-1.5",
          "Arizona Cardinals": "-1.6",
          "Washington Commanders": "-2.2",
-         "Atlanta Falcons": "-2.9",
-         "Miami Dolphins": "-3.4",
+         "Atlanta Falcons": "-2.8",
+         "Miami Dolphins": "-3.3",
          "Carolina Panthers": "-4.1",
          "Minnesota Vikings": "-4.2",
          "Las Vegas Raiders": "-6.5",
@@ -36,6 +36,6 @@
       }
    ],
    "update": {
-      "last update": "December 2, 2025"
+      "last update": "December 3, 2025"
    }
 }
